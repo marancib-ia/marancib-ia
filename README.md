@@ -42,7 +42,7 @@ Feel free to reach out to me through the following channels:
 
 - GitHub: [Your GitHub Profile](Link to your GitHub profile)
 - LinkedIn: [Your LinkedIn Profile](Link to your LinkedIn profile)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- Email: [Your Email Address](mailto:necrus.aikon@gmail.com)
 
 Let's collaborate and explore the exciting world of data and artificial intelligence together!
 
