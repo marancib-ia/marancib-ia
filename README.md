@@ -22,22 +22,6 @@ Welcome to my GitHub profile! I am a dedicated professional with over a decade o
 - Computer Vision
 - Generative AI
 
-### Projects
-
-Here are some of the projects I've worked on:
-
-#### [Project Name 1](Link to Project 1)
-- Description: Briefly describe the project and its significance.
-- Technologies Used: List the technologies, libraries, and frameworks used.
-- Highlights: Mention any key achievements or challenges overcome.
-
-#### [Project Name 2](Link to Project 2)
-- Description: Briefly describe the project and its significance.
-- Technologies Used: List the technologies, libraries, and frameworks used.
-- Highlights: Mention any key achievements or challenges overcome.
-
-### Contact
-
 Feel free to reach out to me through the following channels:
 
 - GitHub: [Your GitHub Profile](Link to your GitHub profile)
